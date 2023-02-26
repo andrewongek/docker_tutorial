@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Docker tut",
+  "main": "server.js",
+  "scripts": {
+    "test": "gtr",
+    "start": "node server.js"
+  },
+  "author": "andrew",
+  "license": "ISC"
+}
